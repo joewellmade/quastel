@@ -68,7 +68,7 @@
           13 Charterhouse Square,<br /> London, EC1M 6AX</p>
         </div>
         <div class="large-3 medium-4 columns footerLogo">
-          <a href="https://www.linkedin.com/company/quastel-associates-ltd" target="blank"><img src="img/linkedin.png" alt="linkedin" class="linkedin" /></a>
+          <a href="https://uk.linkedin.com/in/mark-smith-a9059432" target="blank"><img src="img/linkedin.png" alt="linkedin" class="linkedin" /></a>
           <a href="http://www.sofaa.org/" target="blank"><img src="img/sofaa.png" alt="SOFAA" class="sofaa" /></a>
         </div>
       </div>
