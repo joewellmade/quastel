@@ -4,7 +4,7 @@
 	<title>Thank you for getting in touch</title>
 	
 	<link rel="stylesheet" href="stylesheets/app.css" />
-	<link rel="stylesheet" type="text/css" href="//cloud.typography.com/8003292/688706/css/fonts.css" />
+	<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7683374/7979772/css/fonts.css" />
 </head>
 
 <body id="about-us">
