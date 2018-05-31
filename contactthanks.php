@@ -62,10 +62,14 @@
           <p class="info"><span class="copper">Email:</span><br /><a href="mailto:info@quastelassociates.com">info@quastelassociates.com</a><br />
           <span class="copper">Telephone:</span> <br /><a href="tel:+4402072531710">020 7253 1710</a></p>
         </div>
-        <div class="large-5 medium-4 columns">
+        <div class="large-4 medium-4 columns">
           <p class="info"><span class="copper">Address:</span><br />    
           Quastel Associates Limited<br />
-          13 Charterhouse Square,<br /> London, EC1M 6AX</p>
+          13 Charterhouse Square,<br /> London, EC1M 6AX<br />
+          And<br />
+          28 Queen Square<br />
+          Bristol<br />
+          BS1 4ND</p>
         </div>
         <div class="large-3 medium-4 columns footerLogo">
           <a href="https://uk.linkedin.com/in/mark-smith-a9059432" target="blank"><img src="img/linkedin.png" alt="linkedin" class="linkedin" /></a>
