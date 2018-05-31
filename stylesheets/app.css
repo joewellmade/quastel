@@ -67,6 +67,10 @@ body {
   position: relative;
   cursor: auto; }
 
+.feestext {
+  font-size: 1.2em;
+}
+
 a:hover {
   cursor: pointer; }
 
