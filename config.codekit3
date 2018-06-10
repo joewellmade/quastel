@@ -4091,7 +4091,7 @@
 		"oAP": "\/img\/staff20.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/img\/staff21.jpg": {
@@ -4114,6 +4114,28 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
+		"q": 100
+		},
+	"\/img\/staff22.jpg": {
+		"ft": 16384,
+		"iS": 21968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/staff22.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/staff23.jpg": {
+		"ft": 16384,
+		"iS": 47104,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/staff23.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/img\/staff3.jpg": {
