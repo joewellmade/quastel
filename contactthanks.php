@@ -63,16 +63,19 @@
           <span class="copper">Telephone:</span> <br /><a href="tel:+4402072531710">020 7253 1710</a></p>
         </div>
         <div class="large-4 medium-4 columns">
-          <p class="info"><span class="copper">Address:</span><br />    
+          <p class="info"><span class="copper">Offices:</span><br />    
           Quastel Associates Limited<br />
-          13 Charterhouse Square,<br /> London, EC1M 6AX<br />
-          And<br />
           28 Queen Square<br />
-          Bristol<br />
-          BS1 4ND</p>
+          Bristol, BS1 4ND<br />   
+          And<br />
+          13 Charterhouse Square,<br /> London, EC1M 6AX</p>
         </div>
-        <div class="large-3 medium-4 columns footerLogo">
-          <a href="https://uk.linkedin.com/in/mark-smith-a9059432" target="blank"><img src="img/linkedin.png" alt="linkedin" class="linkedin" /></a>
+        <div class="large-4 medium-4 columns footerLogo">
+          <!--<a href="https://www.linkedin.com/company/quastel-associates-ltd" target="blank"><img src="img/linkedin.png" alt="linkedin" class="linkedin" /></a>-->
+          
+          <a href="https://uk.linkedin.com/in/mark-smith-a9059432" target="blank"><i class="fa fa-linkedin fa-2x"></i></a>
+          <a href="https://twitter.com/quastels" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
+          <a href="https://www.instagram.com/quastel_associates/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
           <a href="http://www.sofaa.org/" target="blank"><img src="img/sofaa.png" alt="SOFAA" class="sofaa" /></a>
         </div>
       </div>
