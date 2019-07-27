@@ -68,7 +68,8 @@ body {
   cursor: auto; }
 
 .feestext {
-  font-size: 1.2em;
+  font-size: 1.4em;
+  font-weight: bold;
 }
 
 a:hover {
@@ -6554,5 +6555,10 @@ span.copper {
 @media only screen and (orientation: landscape) {
   .top-bar-section ul li {
     border-bottom: 0px solid #FFFFFF; } }
+
+.fees-intro {
+  font-weight: bold;
+  font-size: 1.2em;
+}
 
 
