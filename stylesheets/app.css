@@ -6557,8 +6557,9 @@ span.copper {
     border-bottom: 0px solid #FFFFFF; } }
 
 .fees-intro {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 1.2em;
+  text-align: center !important;
 }
 
 
